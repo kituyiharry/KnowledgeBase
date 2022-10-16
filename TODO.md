@@ -1,5 +1,6 @@
 ## Backthought
 Knowkledge base software
+ - Doubt system
  - formats for storing and querying
 
 ## Math and CS
@@ -40,3 +41,10 @@ Distributions
 Central limit
 t-tests
 Sampling
+
+## Interpersonal skills
+Steelmanning argumentation | Strawmanning
+Context
+Rigor and Exposition
+Red herrings
+Anecdata
