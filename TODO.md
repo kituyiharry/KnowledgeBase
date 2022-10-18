@@ -1,5 +1,8 @@
+# URGENT
+- Switch from vim9 to neovim - stuff is beginning to break
+
 ## Backthought
-Knowkledge base software
+Knowledge base software
  - Doubt system
  - formats for storing and querying
 
@@ -41,6 +44,7 @@ Distributions
 Central limit
 t-tests
 Sampling
+Benfords law
 
 ## Interpersonal skills
 Steelmanning argumentation | Strawmanning
