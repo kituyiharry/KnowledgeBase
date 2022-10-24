@@ -3,6 +3,12 @@
 
 ## Backthought
 Knowledge base software
+ -	problems is describing ontologies
+ - A tag is a predicate. Sub-tags are implication (male author => author).
+  - Tag aliases are equivalence (implication in both directions)1
+  - How libraries organize information
+  - Tagging vs Filing
+  - https://karl-voit.at/tagstore/en/papers.shtml
  - Doubt system
  - formats for storing and querying
 
@@ -27,6 +33,7 @@ Fixed point combinator
 Combinaotors
 Game theory
 Wavelets
+Lagrangian mechanics
 
 ## Finance and  Economics
 Macro and Micro
