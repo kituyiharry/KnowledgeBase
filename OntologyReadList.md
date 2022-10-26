@@ -1,0 +1,29 @@
+- https://www.w3.org/OWL/
+- https://www.youtube.com/watch?v=p0buEjR3t8A
+- https://www.youtube.com/watch?v=zteyEk9LADs
+- https://www.w3.org/TR/rdf-sparql-query/
+- https://www.youtube.com/watch?v=QGmwIWmyJeg
+- https://github.com/INCATools/ontology-development-kit
+- - Software: https://obofoundry.org/ontology/swo.html
+- - following owl means we can use their libraries
+- http://owl.cs.manchester.ac.uk/research/co-ode/
+- why most ontologies fail -> big data ??
+- - Silo problem (everyone ends up creating their own ontology)
+- - - Solve by making it hard to build ontologies
+- - - neighbour compatibility
+- - Building for data already known - breaks on new data (- overfitting)
+- - - short half life
+- - - Solve by abstracting from data via entities as proxies to the data
+- - each ontology is an ontology onto itself that needs to be described
+- - - Create a standard (ISO21838) (why of course!)
+- - - modularity
+- - - - domain experts
+- https://www.w3.org/TR/vocab-ssn/
+- https://github.com/bfo-ontology/BFO/wiki
+- - small, evolving, formal
+- Gene ontology and Gene sequences and tagging
+- - Incredibly useful (in their contributions)
+- - Gene ontology and Species
+- - https://obofoundry.org/
+
+- - Writing ontology system proposals

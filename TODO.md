@@ -21,6 +21,8 @@ Representation Theory
 Cayley Graphs
 Group Theory
 De bruijn sequences and Graphs
+Bellman Equations, Bellman-Ford
+A* , Djikstra
 Axiom of choice and infinite sets
 Linear Algebra and Calculus
 Decision and Optimization problems
