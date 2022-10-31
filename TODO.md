@@ -32,10 +32,12 @@ Automated reasoning
 SLAM and Sensor Fusion
 XDP protocol
 Fixed point combinator
-Combinaotors
+Combinators
 Game theory
 Wavelets
-Lagrangian mechanics
+Lagrangian mechanics (maybe also Hamiltonian and Newtonian)
+RDF and URDF
+PPP-RTK and Self driving
 
 ## Finance and  Economics
 Macro and Micro
