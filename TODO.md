@@ -53,7 +53,7 @@ Queuing theory
 Fat tails
 Distributions
 Central limit
-t-tests
+t-tests, variance and p-values
 Sampling
 Benfords law
 
