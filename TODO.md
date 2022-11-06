@@ -14,6 +14,7 @@ Knowledge base software
 
 ## Math and CS
 Summations and Products
+Order theory (total orders, partial orders, quasi-orders, preorders..)
 Diagonal proofs
 Functions and proofs
 Category Theory
