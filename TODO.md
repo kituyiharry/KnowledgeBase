@@ -48,6 +48,7 @@ Risk
 Veblen goods
 Greeks and Options
 Automated Market makers (AMMs)
+Optionality and Gamification
 
 ## Statistics and Probability
 Queuing theory
