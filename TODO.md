@@ -52,6 +52,7 @@ Automated Market makers (AMMs)
 ## Statistics and Probability
 Queuing theory
 Fat tails
+Fragility, Antfragility and Robustness
 Distributions
 Central limit
 t-tests, variance and p-values
