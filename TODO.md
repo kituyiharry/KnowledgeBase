@@ -50,6 +50,7 @@ Greeks and Options
 Automated Market makers (AMMs)
 Optionality and Gamification
 Bearer bonds
+Pigouvian Taxes
 https://en.wikipedia.org/wiki/Chiasso_financial_smuggling_case
 
 ## Statistics and Probability
