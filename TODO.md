@@ -55,6 +55,7 @@ https://en.wikipedia.org/wiki/Chiasso_financial_smuggling_case
 
 ## Statistics and Probability
 Queuing theory
+Vitality curve (20 - 70 - 10 ) and ranking
 Fat tails
 Fragility, Antfragility and Robustness
 Distributions
