@@ -1,6 +1,8 @@
 - https://www.w3.org/OWL/
+- https://www.youtube.com/watch?v=JOzr4sZsISE
 - https://www.youtube.com/watch?v=p0buEjR3t8A
 - https://www.youtube.com/watch?v=zteyEk9LADs
+- https://www.youtube.com/watch?v=eVs0KjV9LhU
 - https://www.w3.org/TR/rdf-sparql-query/
 - https://www.youtube.com/watch?v=QGmwIWmyJeg
 - https://github.com/INCATools/ontology-development-kit
